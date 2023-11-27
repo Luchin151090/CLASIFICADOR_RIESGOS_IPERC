@@ -1,0 +1,376 @@
+Riesgo,Clasificacion
+Suplantación de identidad en llamadas telefónicas para obtener información interna,4
+No detectar y clasificar nuevas vulnerabilidades introducidas por cambios en el sistema,3
+Desafíos en la implementación de políticas de seguridad en sistemas de vehículos autónomos conectados,3
+Problemas en la instalación de software de seguridad,0
+Errores en la configuración de políticas de seguridad en sistemas de almacenamiento distribuido,3
+Ransomware en servidores de respaldo críticos,1
+Desviaciones en la aplicación de políticas de seguridad en sistemas de análisis de big data en la nube,2
+Pruebas de seguridad que no evalúan la resistencia ante amenazas internas malintencionadas,2
+Ataques de fuerza bruta contra contraseñas de administrador,1
+Errores en la definición de estrategias de pruebas,2
+Implementación incompleta de sistemas alternativos para asegurar disponibilidad,1
+Problemas en la implementación de controles de seguridad en sistemas SCADA,3
+Malware que provoca fallos en el sistema de archivos,1
+Errores en la configuración de políticas de seguridad en sistemas de emulación de software,3
+Inyección SQL en bases de datos sensibles,1
+Roles y privilegios de usuarios no revisados adecuadamente,1
+Ataques de contraseña a cuentas de usuarios con privilegios de base de datos,3
+Malware que afecta la velocidad de procesamiento,1
+Soporte tecnológico ineficiente para la recuperación de datos,0
+Gestión reactiva de incidentes que no realiza análisis forense adecuado,2
+Diseñar controles de seguridad que no aborden las vulnerabilidades específicas del sistema,3
+Fraude informático mediante manipulación de transacciones,4
+Inconsistencias en la gestión de certificados de seguridad en sistemas de gestión de flotas de vehículos,3
+Explotación de vulnerabilidades conocidas en servidores,1
+Malware que compromete la seguridad de comunicaciones en red,1
+Errores en la configuración de sistemas de monitoreo de seguridad,2
+Ausencia de seguro que cubra daños potenciales,0
+Recepción de mensajes de phishing con enlaces a páginas web falsas,4
+Problemas en la seguridad de sistemas de gestión de identidad biométrica,4
+Causas naturales que afectan la disponibilidad de servicios en línea,0
+Pérdida de copias de resguardo por falta de pruebas regulares de recuperación,3
+Errores en la definición de criterios de aceptación no funcionales,2
+Diseñar controles de seguridad inadecuados para la protección de datos sensibles,3
+Causas naturales que afectan la disponibilidad de servidores,0
+Fraude informático mediante manipulación de registros de transacciones financieras,4
+Gestión incompleta de incidentes que no realiza análisis de impacto empresarial,2
+Inconsistencias en la gestión de certificados de cifrado en aplicaciones cliente-servidor,3
+Inconsistencias en la gestión de actualizaciones de seguridad en sistemas operativos,3
+Problemas en la seguridad de sistemas de autenticación biométrica facial,4
+Infección de sistemas por código malicioso en descargas de aplicaciones,4
+Malware que roba información financiera,1
+Fallos en la implementación de sistemas alternativos para asegurar la disponibilidad,1
+Inconsistencias en la gestión de certificados de seguridad en sistemas de análisis de comportamiento de usuario,3
+Fallas en la protección contra ataques de sniffing en redes Wi-Fi,4
+Pruebas de seguridad sin evaluación de la seguridad en el ciclo de vida del desarrollo,2
+Falta de integración entre la gestión de riesgos informáticos y la gestión de recursos humanos,2
+Pruebas de seguridad que no evalúan la seguridad de los protocolos de comunicación,2
+Inconsistencias en la gestión de vulnerabilidades en aplicaciones web,3
+Desviaciones en la aplicación de políticas de seguridad en sistemas de control de acceso biométrico,3
+Desafíos en la implementación de políticas de seguridad en sistemas de ciberseguridad cuántica,3
+Ataques de phishing contra usuarios de sistemas de nube,1
+Falta de capacitación en la gestión de riesgos informáticos para el personal,2
+Desconexión de sistemas críticos por ataques DDoS,1
+Daños físicos al equipamiento por incidentes de seguridad física,4
+Intentos de ingeniería social para obtener información confidencial,4
+Desconexión de sistemas críticos por errores de configuración,0
+Gestión incompleta de incidentes que no incluye análisis de lecciones aprendidas,2
+Pérdida de copias de resguardo por fallas en los procedimientos de respaldo,3
+Recepción de mensajes de phishing con enlaces a páginas web falsas,4
+Desafíos en la implementación de políticas de seguridad en sistemas embebidos,2
+Pruebas de seguridad que no evalúan la eficacia de los controles existentes,2
+No tener planes de Disaster Recovery para hacer frente a posibles desastres,1
+Descuidar la gestión de riesgos informáticos en áreas específicas de la empresa,2
+Detección tardía y clasificación incorrecta de vulnerabilidades críticas,3
+Configuración insegura de servidores de base de datos,0
+Ataques de contraseña a cuentas de usuarios con acceso a secretos comerciales,3
+Roles y privilegios de usuarios no revisados periódicamente,1
+Fraude informático mediante manipulación de procesos de autorización,4
+Envío de enlaces maliciosos a través de mensajes de phishing,4
+Ataques de contraseña a cuentas de usuarios con acceso a datos personales,2
+Ataques de contraseña a cuentas de usuarios finales,2
+Problemas en la protección contra ataques de phishing,4
+Soporte tecnológico lento en la resolución de problemas de software,0
+Errores en la instalación de software de cortafuegos,0
+Problemas de configuración en servidores de correo electrónico,0
+Fallas en la protección contra amenazas de ataques de denegación de servicio distribuido (DDoS),4
+Gestión deficiente de incidentes de seguridad,2
+Desafíos en la implementación de políticas de seguridad en sistemas de teletrabajo,2
+Errores humanos que generan pérdida de información confidencial,0
+Diseñar controles de seguridad sin considerar el impacto de vulnerabilidades día cero,3
+Errores en la configuración de políticas de seguridad de dispositivos IoT,3
+Ransomware que afecta la disponibilidad de servidores de correo electrónico,1
+Pruebas de seguridad insuficientes para identificar amenazas potenciales,3
+Desviaciones en la aplicación de políticas de seguridad en entornos DevOps,2
+Desviaciones en la aplicación de pruebas de localización,2
+Configuración insuficiente de permisos en servidores,0
+Falta de implementación completa de sistemas de seguridad en la nube,0
+Acceso no autorizado a servidores de aplicaciones empresariales,1
+Ataques de contraseña a cuentas de administradores de sistemas,4
+Minimizar la importancia de la gestión de riesgos informáticos en eventos empresariales,2
+Implementación deficiente de sistemas alternativos para asegurar disponibilidad,1
+Fallas en la ejecución de pruebas de recuperación ante desastres,3
+Envío de enlaces maliciosos a través de mensajes de phishing en redes corporativas,4
+Ataques de phishing contra cuentas de clientes,1
+Fallas en la protección contra ataques de fuerza bruta a servicios web,4
+Ransomware en dispositivos de almacenamiento compartido,1
+Desviaciones en la aplicación de políticas de seguridad en sistemas de domótica,2
+Acceso no autorizado a información impresa de planes estratégicos de la empresa,3
+Daños físicos al equipamiento por problemas eléctricos,4
+Inconsistencias en la gestión de certificados de seguridad en sistemas de transacciones blockchain,3
+Asignación negligente de roles con altos privilegios,4
+No tener un seguro que cubra daños ocasionados,0
+Errores humanos que causan malfuncionamiento en aplicaciones críticas,0
+Infección de sistemas por código malicioso en descargas de aplicaciones,4
+Diseñar controles de seguridad demasiado restrictivos que afectan la productividad,2
+No contar con un seguro que cubra los posibles daños ocasionados,0
+Errores en la configuración de cortafuegos en servidores web,0
+Participación humana involuntaria en el acceso no autorizado a sistemas,0
+Implementación parcial de sistemas de seguridad en la nube,0
+Ataques de malware contra servidores de aplicaciones empresariales,1
+Acceso no autorizado a sistemas de monitoreo de red,1
+Problemas en la seguridad de sistemas de reconocimiento de voz,4
+Errores humanos que generan pérdida de datos,0
+Pérdida de copias de resguardo por falta de actualización de procedimientos,3
+Errores en la instalación de software de cortafuegos,0
+Pruebas de seguridad que no evalúan la seguridad de los servicios web,2
+Fraude informático mediante manipulación de procesos de adquisiciones,4
+No detectar y clasificar vulnerabilidades relacionadas con la privacidad de datos,3
+Falta de cifrado en la comunicación de servidores,0
+Ataques de contraseña a cuentas de usuarios con acceso a datos personales,2
+Roles y privilegios de usuarios sin revisión adecuada,1
+Errores en la identificación de requisitos funcionales,2
+Problemas en la seguridad de sistemas de pago en línea,4
+Diseñar controles de seguridad que no se adaptan a la dinámica del negocio,3
+Diseñar controles de seguridad sin evaluar la seguridad en la cadena de suministro,3
+Acceso no autorizado a información impresa de tarjetas de crédito,4
+Desafíos en la protección contra ataques de envenenamiento de DNS,4
+Ataque de phishing dirigido a empleados,1
+Falta de implementación de sistemas alternativos para asegurar alta disponibilidad,1
+Inconsistencias en la documentación de escenarios de prueba,2
+Phishing dirigido a empleados con privilegios elevados,4
+Recepción de mensajes de phishing con enlaces a páginas web falsas,4
+No detectar y clasificar vulnerabilidades en dispositivos móviles corporativos,3
+Desafíos en la detección de defectos en interfaces,2
+Participación humana involuntaria en la filtración de datos,0
+Pérdida de copias de resguardo por falta de cifrado de datos almacenados,3
+Ataques de spear phishing contra empleados clave,1
+Malware que compromete la seguridad informática,1
+Inconsistencias en la gestión de certificados de seguridad en sistemas de blockchain,3
+Fraude informático mediante manipulación de bases de datos de clientes,4
+Desviaciones en la aplicación de políticas de seguridad en sistemas de análisis de vulnerabilidades,2
+Errores en la estimación de cobertura de pruebas,2
+Fallas en la protección contra amenazas de ataques de inteligencia artificial adversaria,4
+Deficiencias en los protocolos de seguridad de contraseñas,0
+No contar con planes de Disaster Recovery frente a posibles desastres,1
+Protocolos de seguridad para contraseñas no suficientemente robustos,0
+Pruebas de seguridad sin evaluación de la capacidad de recuperación,2
+Ataques de phishing contra cuentas administrativas,1
+Inyección SQL en sistemas de gestión de inventario,1
+Pruebas de seguridad que no incluyen simulacros de respuesta a incidentes,2
+Débiles protocolos de seguridad para contraseñas,0
+Falta de conciencia sobre riesgos informáticos en equipos de desarrollo,2
+Errores en la configuración de políticas de seguridad en sistemas de protección de privacidad en redes sociales,3
+No tener planes de Disaster Recovery frente a desastres potenciales,1
+Desafíos en la identificación de casos de prueba críticos,2
+Pruebas de seguridad sin evaluación de impacto en caso de explotación exitosa,2
+Incidentes de malware en estaciones de trabajo,1
+Gestión incompleta de incidentes que no incluye análisis de impacto regulatorio,2
+Causas naturales que afectan la integridad de sistemas críticos,0
+Desviaciones en la aplicación de pruebas de escalabilidad,3
+Desviaciones en la aplicación de políticas de seguridad en aplicaciones móviles,3
+Problemas en la gestión de pruebas de no regresión,3
+Ignorar la gestión de riesgos informáticos en entornos de desarrollo,2
+Desafíos en la implementación de políticas de seguridad en sistemas de realidad virtual,2
+Diseñar controles de seguridad sin considerar la evolución de la tecnología,3
+Interrupción del servicio debido a errores de configuración,0
+Causas naturales que disminuyen la vigilancia en sistemas,0
+Malware que compromete la seguridad en transacciones en línea,1
+Falla en la implementación de políticas de acceso en servidores,0
+Pruebas de seguridad sin evaluación de la seguridad en el uso de dispositivos USB,2
+Gestión fragmentada de incidentes que no coordina con organismos de respuesta,2
+Fallas en la protección contra amenazas de reconocimiento facial,4
+No mantener un historial completo de incidentes de seguridad pasados,2
+Protocolos de seguridad para contraseñas débiles,0
+Fraude informático mediante manipulación de correos electrónicos,4
+Protocolos de seguridad para contraseñas débiles,0
+Ataques de malware contra servidores de respaldo,1
+Phishing dirigido a empleados clave,1
+Fallas en la protección contra amenazas de malware en sistemas integrados,4
+Problemas en la instalación de software de cortafuegos,0
+Errores humanos que provocan errores en la configuración de servidores web,0
+Acceso no autorizado a servidores sensibles,1
+Gestión fragmentada de incidentes que no integra aprendizajes de situaciones pasadas,2
+Inconsistencias en la gestión de certificados de seguridad en sistemas de gestión de contraseñas,3
+Acceso no autorizado a información impresa de contratos comerciales,3
+Ataques de phishing contra empleados de soporte técnico,1
+Infección de sistemas por código malicioso en descargas de software gratuito,4
+Fraude informático mediante manipulación de sistemas de pago en línea,4
+Daños físicos al equipamiento por error humano,2
+Fallas en la protección contra ataques de inyección de código SQL,4
+Implementación deficiente de sistemas alternativos para asegurar disponibilidad,1
+Carencia de planes de Disaster Recovery frente a desastres potenciales,1
+Errores en la definición de estrategias de pruebas de usabilidad,2
+Configuración insegura de servidores de respaldo,0
+Errores humanos que provocan errores en la configuración de cortafuegos,0
+Participación humana involuntaria en la alteración de registros,0
+Errores en la configuración de cortafuegos de aplicaciones,0
+Infección de sistemas por código malicioso en archivos adjuntos de correos electrónicos,4
+Exposición de información confidencial en servidores mal configurados,1
+Desafíos en la identificación de escenarios de prueba realistas,2
+Daños físicos al equipamiento por incidentes de seguridad en el transporte,4
+Problemas en la seguridad de sistemas de comunicación segura de extremo a extremo,4
+Problemas en la seguridad de sistemas de detección de intrusos basados en aprendizaje automático,4
+Participación humana involuntaria en la pérdida de datos de clientes,0
+Pérdida de copias de resguardo por falta de procedimientos de verificación,3
+Participación humana involuntaria en la alteración de registros,0
+Gestión fragmentada de incidentes que no integra análisis de inteligencia de amenazas,2
+Errores en la implementación de pruebas de seguridad,4
+Falta de actualizaciones de seguridad en servidores críticos,1
+Acceso no autorizado a información confidencial impresa,3
+Inconsistencias en la documentación de resultados de pruebas,2
+Ransomware que bloquea el acceso a servidores,1
+Errores humanos que comprometen la seguridad de contraseñas,0
+Falta de implementación adecuada de sistemas de seguridad en la nube,0
+Inconsistencias en la revisión de código,2
+Errores en la configuración de políticas de seguridad de dispositivos móviles,3
+Instalación incorrecta de software de seguridad y cortafuegos,0
+Acceso no autorizado a información impresa de investigaciones internas,3
+Gestión incompleta de incidentes que no evalúa el impacto financiero y reputacional,2
+Errores humanos que causan malfuncionamiento en sistemas,0
+Errores en la configuración de políticas de seguridad en sistemas de monitoreo de red,2
+Daños físicos al equipamiento por eventos de seguridad en la cadena de suministro,4
+Implementación deficiente de sistemas alternativos para asegurar disponibilidad,1
+Pruebas de seguridad que no incluyen simulacros de respuesta a ciberataques,2
+Suplantación de identidad en correos electrónicos internos para ingeniería social,4
+No realizar la instalación adecuada de software de cortafuegos,0
+Acceso no autorizado a información impresa por personal externo,3
+Participación humana involuntaria en la pérdida de información confidencial,0
+Diseñar controles de seguridad que no consideran la movilidad y teletrabajo,3
+Participación humana involuntaria en ataques cibernéticos,0
+Realizar pruebas de seguridad de manera irregular y no planificada,2
+Daños físicos al equipamiento por incidentes de seguridad en el transporte,4
+Pérdida de copias de resguardo por error humano en la gestión de almacenamiento,3
+Fallas en la protección contra amenazas de ataques de ingeniería social avanzada,4
+Desafíos en la implementación de políticas de seguridad en sistemas de vehículos autónomos,3
+No detectar y clasificar vulnerabilidades en sistemas de gestión de bases de datos,3
+Problemas en la gestión de pruebas de carga,3
+Fallas en la protección contra amenazas de ataques de canal lateral,4
+Gestión fragmentada de incidentes que no integra información de inteligencia de amenazas,2
+Implementación incompleta de sistemas alternativos para asegurar disponibilidad,1
+Ataques de malware contra servidores de bases de datos,1
+Infección de sistemas por código malicioso en redes Wi-Fi públicas,4
+Ataques de malware contra servidores de archivos compartidos,1
+Problemas en la seguridad de sistemas de realidad aumentada,4
+Desviaciones en la aplicación de políticas de seguridad en sistemas de drones,2
+Ataques de ingeniería social contra empleados,1
+No detectar y clasificar vulnerabilidades en sistemas de gestión de identidades,3
+Ataques de phishing contra empleados del departamento de TI,1
+Vulnerabilidades no parcheadas en servidores web,1
+Desviaciones en la aplicación de políticas de seguridad en sistemas de votación en línea,2
+Ataques de ransomware contra servidores de almacenamiento,1
+Fraude informático mediante manipulación de registros financieros,4
+Ingeniería social a través de llamadas telefónicas falsas,4
+Ataques de contraseña a cuentas de usuarios con débiles medidas de seguridad,2
+Acceso no autorizado a información impresa por descontento interno,3
+Errores en la estimación del esfuerzo de pruebas,2
+Inyección SQL en sistemas de gestión de inventario,1
+Envío de enlaces maliciosos a través de redes sociales para phishing,4
+Acceso no autorizado a servidores de bases de datos sensibles,1
+Ausencia de seguro que cubra daños potenciales,0
+No detectar y clasificar vulnerabilidades en sistemas de inteligencia artificial,3
+Inyección SQL en sistemas de gestión de recursos humanos,1
+Soporte tecnológico lento para resolver problemas críticos,0
+Desafíos en la identificación de datos de prueba realistas,2
+Ataques de contraseña a cuentas de usuarios con baja seguridad,1
+Implementación incorrecta de políticas de seguridad en servidores,0
+Fallas en la ejecución de pruebas de rendimiento,4
+Fallas en la protección contra amenazas de inteligencia artificial maliciosa,4
+Desviaciones en la aplicación de pruebas de usabilidad,2
+Problemas en la seguridad de sistemas de reconocimiento facial,4
+Errores en la configuración de políticas de seguridad en sistemas de telemedicina,3
+Pérdida de copias de resguardo por fallos en los procedimientos de restauración,3
+Problemas en la gestión de pruebas de interoperabilidad,3
+Roles y privilegios de usuarios sin revisión periódica,1
+Infección de sistemas por código malicioso en descargas de herramientas de productividad,4
+Errores en la configuración de VPN para trabajadores remotos,0
+Problemas en la gestión de pruebas de extremo a extremo,3
+Inyección SQL en sistemas de gestión de clientes,1
+Ataques de ransomware contra sistemas críticos,1
+No contar con planes de Disaster Recovery frente a posibles desastres,1
+Recepción de correos electrónicos de phishing dirigidos a la alta dirección,4
+Falta de implementación total de sistemas de seguridad en la nube,0
+Problemas en la gestión de casos de prueba,2
+No detectar y clasificar vulnerabilidades en sistemas en la nube y entornos virtualizados,3
+Gestión incompleta de incidentes que no incluye análisis de incidentes críticos,2
+Falta de conciencia sobre riesgos informáticos en la alta dirección,2
+Acceso no autorizado a información impresa de patentes y propiedad intelectual,3
+No detectar y clasificar vulnerabilidades en aplicaciones web,3
+Inconsistencias en la gestión de certificados de seguridad en sistemas de impresión 3D,3
+Intentos de ingeniería social para obtener credenciales de acceso a sistemas,4
+Fracaso en implementar controles de seguridad efectivos en la infraestructura,3
+Configuración insegura de servidores de aplicaciones,0
+Falta de implementación de sistemas de seguridad en la nube automatizados,0
+Daños físicos al equipamiento debido a desastres naturales,4
+Vulnerabilidades no corregidas en servidores de correo electrónico,1
+Protocolos de seguridad para contraseñas no suficientemente robustos,0
+Problemas de autenticación en servidores de correo electrónico,1
+Fraude informático mediante manipulación de bases de datos de clientes,4
+Acceso no autorizado a información impresa de tarjetas de crédito,4
+Ataques de phishing a empleados de nivel 1,1
+Problemas de configuración en servidores de almacenamiento,0
+Exposición de datos sensibles por configuración incorrecta de servidores,1
+Causas naturales que afectan la integridad de bases de datos,0
+Soporte tecnológico lento en la resolución de problemas de red,0
+Ausencia de contratación de un seguro que cubra daños ocasionados,0
+Roles y privilegios de usuarios sin revisión periódica,1
+Fallas en la protección contra amenazas de ataques de malware polimórfico,4
+Problemas en la seguridad de sistemas de auditoría continua de seguridad,4
+Errores en la configuración de políticas de seguridad en sistemas de análisis forense digital,3
+Intentos de manipulación psicológica para obtener acceso a sistemas críticos,4
+Intentos de manipulación psicológica para obtener contraseñas,4
+Implementación insuficiente de sistemas de seguridad en la nube,0
+Ransomware en sistemas de respaldo de información,1
+Pruebas de seguridad poco frecuentes que no reflejan el estado actual de las amenazas,2
+No detectar y clasificar vulnerabilidades en dispositivos de Internet de las cosas,3
+Pérdida de copias de resguardo críticas para la recuperación,3
+Desviaciones en la aplicación de pruebas de rendimiento de API,3
+Gestión ineficiente de incidentes que no considera el análisis de root cause,2
+Problemas en la protección contra amenazas de ransomware,4
+Diseñar controles de seguridad sin evaluar la eficacia de las políticas de seguridad,3
+Problemas de autenticación en servidores de archivos compartidos,1
+Gestión ineficiente de incidentes que no establece medidas correctivas efectivas,2
+Errores en la configuración de políticas de seguridad en sistemas de inteligencia artificial,3
+Carencia de planes de Disaster Recovery ante desastres potenciales,1
+Ransomware en dispositivos de usuarios finales,1
+Diseñar controles de seguridad que no aborden amenazas específicas del sector,3
+No tener un seguro que cubra daños ocasionados,0
+Falta de visión macro en la gestión de riesgos informáticos,2
+Ataques de phishing a empleados de recursos humanos,1
+Fallas en la implementación de pruebas de rendimiento bajo carga,4
+Configuración incorrecta de cortafuegos en el servidor,0
+Causas naturales que generan desconexión en sistemas de monitoreo,0
+Desafíos en la implementación de políticas de seguridad en sistemas de simulación y entrenamiento,2
+Débiles protocolos de seguridad para contraseñas,0
+Participación humana involuntaria en el acceso no autorizado a datos,0
+No contar con un seguro que cubra posibles daños ocasionados,0
+Inyección SQL en aplicaciones empresariales,1
+Diseñar controles de seguridad que no consideran el insider threat,3
+Ataques de fuerza bruta a contraseñas de usuarios,3
+Daños físicos al equipamiento por eventos catastróficos,4
+Fallas en la protección contra amenazas de ataques de ransomware específicos de la industria,4
+Errores humanos que generan pérdida de información confidencial,0
+Problemas en la seguridad de sistemas de control de robots industriales,4
+Daños físicos al equipamiento por incidentes de seguridad física,4
+Daños físicos al equipamiento por errores en la manipulación de equipos,3
+Fallas en la protección contra ataques de spoofing de dirección MAC,3
+Soporte tecnológico ineficiente para problemas de hardware,0
+Ransomware que afecta datos críticos,1
+Malware que afecta el rendimiento de equipos informáticos,1
+Errores en la configuración de políticas de seguridad en sistemas de control de acceso,3
+Falta de implementación completa de sistemas de seguridad en la nube,0
+Intentos de manipulación psicológica para obtener acceso a sistemas críticos,4
+Malware que compromete la confidencialidad de información de clientes,1
+Infección de sistemas por código malicioso en anuncios en línea,4
+Suplantación de identidad en correos electrónicos corporativos,1
+Errores en la configuración de cortafuegos de red,0
+Carencia de planes de Disaster Recovery ante posibles desastres,1
+Instalación errónea de software de seguridad,0
+Gestión ineficiente de incidentes que resulta en retrasos en la respuesta,2
+Fallas en la coordinación de pruebas entre equipos,2
+Recepción de correos electrónicos de phishing engañosos,4
+Causas naturales que generan desconexión en servicios críticos,0
+Errores en la definición de criterios de aceptación,2
+Problemas en la seguridad de dispositivos de almacenamiento externo,2
+Apoyo tecnológico inadecuado para empleados remotos,0
+Intentos de manipulación psicológica para obtener información privilegiada,4
+Pruebas de seguridad sin evaluación de la seguridad de las redes inalámbricas,2
+Causas naturales que afectan la integridad de bases de datos,0
+Daños físicos al equipamiento por errores en la manipulación de equipos,3
+Phishing dirigido a usuarios con roles de acceso a información confidencial,4
+Inconsistencias en la gestión de certificados de seguridad en sistemas de pagos móviles,3
+Gestión reactiva de incidentes que no previene recurrencias,2
+Ransomware que impacta servidores de aplicaciones,1
+Falla en la implementación de políticas de seguridad en servidores,0
+Pruebas de seguridad sin evaluación de la seguridad de las aplicaciones móviles,2
